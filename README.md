@@ -19,3 +19,14 @@ A PowerShell tool I built to practice Windows and network troubleshooting while 
 * BitLocker status
 
 Results are shown as they complete using `OK`, `INFO`, `WARNING`, and `CRITICAL`.
+
+Run
+.\itdiag.ps1
+
+Or use:
+
+RUN_ME.cmd
+
+Some checks provide more information when run as Administrator:
+
+RUN_AS_ADMIN.cmd
